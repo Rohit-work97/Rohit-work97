@@ -63,3 +63,8 @@ I enjoy building performant frontend applications, scalable backend services, an
 - Email: rohitmishra.work97@gmail.com
 
 ---
+## 💻 Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,docker,git,github,aws,postman,vscode" />
+</p>
