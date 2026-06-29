@@ -55,6 +55,26 @@ I enjoy building performant frontend applications, scalable backend services, an
 - Kubernetes
 
 ---
+## ⭐ Featured Projects
+
+### AI Document Q&A System
+Built a Retrieval-Augmented Generation (RAG) application where users upload documents and ask questions using natural language.
+
+**Tech:** React, Node.js, OpenAI API, Vector Embeddings
+
+---
+
+### Crypto Research Platform
+SEO-optimized research platform with real-time market data, SSR, and interactive dashboards.
+
+**Tech:** Next.js, Redux Toolkit, WebSockets
+
+---
+
+### Crypto-to-Fiat Platform
+Built a secure crypto off-ramp supporting multiple currencies with smart vendor routing.
+
+**Tech:** React, Node.js, PostgreSQL
 
 ## 📫 Connect with me
 
@@ -68,3 +88,11 @@ I enjoy building performant frontend applications, scalable backend services, an
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,docker,git,github,aws,postman,vscode" />
 </p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rohit-work97&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-work97&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=Rohit-work97)
