@@ -91,7 +91,7 @@ Built a secure crypto off-ramp supporting multiple currencies with smart vendor 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Rohit-work97&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Rohit-work97&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-work97&layout=compact)
 
